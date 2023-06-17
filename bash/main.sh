@@ -1,6 +1,6 @@
 #!/bin/bash
 
-base_packages="borg discord-canary celluloid audacity clementine chromium wine wine_gecko vim qbittorrent hexchat code archlinux-keyring yay"
+base_packages="borg celluloid audacity clementine chromium wine wine_gecko vim qbittorrent hexchat code archlinux-keyring yay"
 aur_packages="spotify ttf-ms-fonts"
 
 printf 'Do you wish to proceed with the script? (y/n)? '
